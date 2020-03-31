@@ -1,0 +1,25 @@
+{
+    "Locations": [{
+            "name": "police",
+            "sprite": 60,
+            "color": 4,
+            "shortRange": true,
+            "vector3": {
+                "x": 427.95,
+                "y": -981.05,
+                "z": 0
+            }
+        },
+        {
+            "name": "strip",
+            "sprite": 50,
+            "color": 3,
+            "shortRange": true,
+            "vector3": {
+                "x": -1850.127,
+                "y": -1231.751,
+                "z": 13.017
+            }
+        }
+    ]
+}
